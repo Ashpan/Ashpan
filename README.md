@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/ashpan)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I just started to learn how to skateboard 🛹! Feel free to send tips my way :)
+
+[![Ashpan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashpan&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
