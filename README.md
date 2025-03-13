@@ -27,14 +27,10 @@
 ## 📫 Connect With Me
 - [LinkedIn](https://linkedin.com/in/ashpan)
 
-![Ashpan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashpan&theme=nightowl)
-
-[![GitHub Streak](https://gh-streak.ashpanraskar.com/?user=ashpan&theme=nightowl)](https://git.io/streak-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashpan&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- You might want to add:
-- Links to notable projects
-- GitHub contribution streak
-- Top languages card
--->
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ashpan&theme=nightowl&card_width=650" />
+<a href="https://git.io/streak-stats">
+  <img height=200 align="center" src="https://gh-streak.ashpanraskar.com/?user=ashpan&theme=nightowl&layout=compact&langs_count=8&card_width=320" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://gh-stats.ashpanraskar.com/top-langs?username=ashpan&exclude_repo=COE-4DS4-Labs&layout=compact&theme=nightowl&langs_count=8&card_width=320" />
+</a>
