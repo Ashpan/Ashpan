@@ -27,7 +27,7 @@
 ## 📫 Connect With Me
 - [LinkedIn](https://linkedin.com/in/ashpan)
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ashpan&theme=nightowl&card_width=650" />
+<img height=200 align="center" src="https://gh-stats.ashpanraskar.com?username=ashpan&theme=nightowl&card_width=650" />
 <a href="https://git.io/streak-stats">
   <img height=200 align="center" src="https://gh-streak.ashpanraskar.com/?user=ashpan&theme=nightowl&layout=compact&langs_count=8&card_width=320" />
 </a>
