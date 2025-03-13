@@ -29,7 +29,7 @@
 
 ![Ashpan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashpan&theme=nightowl)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashpan&theme=nightowl)](https://git.io/streak-stats)
+[![GitHub Streak](https://gh-streak.ashpanraskar.com/?user=ashpan&theme=nightowl)](https://git.io/streak-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashpan&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
